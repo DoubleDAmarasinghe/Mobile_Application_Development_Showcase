@@ -55,8 +55,7 @@ However, players must be on guard, as the hacking prowess of characters like Ron
   <summary><strong>Landing Page</strong></summary>
   
   <img src="volt-launcher-game-management-application_1.png" alt="Image1" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
-  
-  *Short description of the video.*
+
 </details>
 
 <details>
@@ -64,7 +63,6 @@ However, players must be on guard, as the hacking prowess of characters like Ron
 
   <img src="volt-launcher-game-management-application_2.png" alt="Image2" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
-  *Short description of the video.*
 </details>
 
 <details>
@@ -72,7 +70,6 @@ However, players must be on guard, as the hacking prowess of characters like Ron
 
   <img src="volt-launcher-game-management-application_3.png" alt="Image3" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
-  *Short description of the video.*
 </details>
 
 <details>
@@ -80,14 +77,12 @@ However, players must be on guard, as the hacking prowess of characters like Ron
 
   <img src="volt-launcher-game-management-application_4.png" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
-  *Short description of the video.*
 </details>
 <details>
   <summary><strong>Agent Showcase</strong></summary>
 
   <img src="volt-launcher-game-management-application_5.png" alt="Image3" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
-  *Short description of the video.*
 </details>
 
 <details>
@@ -95,7 +90,6 @@ However, players must be on guard, as the hacking prowess of characters like Ron
 
   <img src="volt-launcher-game-management-application_6.png" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
-  *Short description of the video.*
 </details>
 
 
