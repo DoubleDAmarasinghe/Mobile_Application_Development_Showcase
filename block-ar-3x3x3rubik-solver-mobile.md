@@ -54,7 +54,6 @@ What sets Block AR apart is its unique feature that allows the game itself to le
   
   <img src="block-ar-3x3x3rubik-solver-mobile_1.jpg" alt="Image1" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
-  *Short description of the video.*
 </details>
 
 <details>
@@ -62,7 +61,6 @@ What sets Block AR apart is its unique feature that allows the game itself to le
 
   <img src="block-ar-3x3x3rubik-solver-mobile_2.jpg" alt="Image2" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
-  *Short description of the video.*
 </details>
 
 <details>
@@ -70,7 +68,6 @@ What sets Block AR apart is its unique feature that allows the game itself to le
 
   <img src="block-ar-3x3x3rubik-solver-mobile_3.jpg" alt="Image3" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
-  *Short description of the video.*
 </details>
 
 <details>
@@ -78,42 +75,36 @@ What sets Block AR apart is its unique feature that allows the game itself to le
 
   <img src="block-ar-3x3x3rubik-solver-mobile_4.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
-  *Short description of the video.*
 </details>
   <details>
   <summary><strong>Adjust Transform</strong></summary>
 
   <img src="block-ar-3x3x3rubik-solver-mobile_5.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
-  *Short description of the video.*
 </details>
   <details>
   <summary><strong>Voice and Text Narrations</strong></summary>
 
   <img src="block-ar-3x3x3rubik-solver-mobile_6.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
-  *Short description of the video.*
 </details>
   <details>
   <summary><strong>Voice and Text Narrations</strong></summary>
 
   <img src="block-ar-3x3x3rubik-solver-mobile_7.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
-  *Short description of the video.*
 </details>
   <details>
   <summary><strong>Layer Movements</strong></summary>
 
   <img src="block-ar-3x3x3rubik-solver-mobile_8.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
-  *Short description of the video.*
 </details>
   <details>
   <summary><strong>Layer Movements</strong></summary>
 
   <img src="block-ar-3x3x3rubik-solver-mobile_9.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
-  *Short description of the video.*
 </details>
 
 <details>
@@ -121,7 +112,6 @@ What sets Block AR apart is its unique feature that allows the game itself to le
 
   <img src="block-ar-3x3x3rubik-solver-mobile_10.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
-  *Short description of the video.*
 </details>
 
 <details>
@@ -129,7 +119,6 @@ What sets Block AR apart is its unique feature that allows the game itself to le
 
   <img src="block-ar-3x3x3rubik-solver-mobile_11.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
-  *Short description of the video.*
 </details>
 
 <details>
@@ -137,7 +126,6 @@ What sets Block AR apart is its unique feature that allows the game itself to le
 
   <img src="block-ar-3x3x3rubik-solver-mobile_12.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
-  *Short description of the video.*
 </details>
 
 <details>
@@ -145,7 +133,6 @@ What sets Block AR apart is its unique feature that allows the game itself to le
 
   <img src="block-ar-3x3x3rubik-solver-mobile_13.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
-  *Short description of the video.*
 </details>
 
 <details>
@@ -153,7 +140,6 @@ What sets Block AR apart is its unique feature that allows the game itself to le
 
   <img src="block-ar-3x3x3rubik-solver-mobile_14.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
-  *Short description of the video.*
 </details>
 
 <details>
@@ -161,7 +147,6 @@ What sets Block AR apart is its unique feature that allows the game itself to le
 
   <img src="block-ar-3x3x3rubik-solver-mobile_15.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
-  *Short description of the video.*
 </details>
 
 <details>
@@ -169,7 +154,6 @@ What sets Block AR apart is its unique feature that allows the game itself to le
 
   <img src="block-ar-3x3x3rubik-solver-mobile_16.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
-  *Short description of the video.*
 </details>
 
 </details>
