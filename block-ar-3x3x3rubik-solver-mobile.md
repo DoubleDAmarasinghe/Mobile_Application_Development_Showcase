@@ -52,7 +52,7 @@ What sets Block AR apart is its unique feature that allows the game itself to le
 <details>
   <summary><strong>Landing Page </strong></summary>
   
-  <img src="1.jpg" alt="Image1" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
+  <img src="block-ar-3x3x3rubik-solver-mobile_1.jpg" alt="Image1" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
   *Short description of the video.*
 </details>
@@ -60,7 +60,7 @@ What sets Block AR apart is its unique feature that allows the game itself to le
 <details>
   <summary><strong>Chose Game Type</strong></summary>
 
-  <img src="2.jpg" alt="Image2" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
+  <img src="block-ar-3x3x3rubik-solver-mobile_2.jpg" alt="Image2" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
   *Short description of the video.*
 </details>
@@ -68,7 +68,7 @@ What sets Block AR apart is its unique feature that allows the game itself to le
 <details>
   <summary><strong>Scanning Suface</strong></summary>
 
-  <img src="3.jpg" alt="Image3" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
+  <img src="block-ar-3x3x3rubik-solver-mobile_3.jpg" alt="Image3" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
   *Short description of the video.*
 </details>
@@ -76,42 +76,42 @@ What sets Block AR apart is its unique feature that allows the game itself to le
 <details>
   <summary><strong>Mesh Spawn</strong></summary>
 
-  <img src="4.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
+  <img src="block-ar-3x3x3rubik-solver-mobile_4.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
   *Short description of the video.*
 </details>
   <details>
   <summary><strong>Adjust Transform</strong></summary>
 
-  <img src="5.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
+  <img src="block-ar-3x3x3rubik-solver-mobile_5.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
   *Short description of the video.*
 </details>
   <details>
   <summary><strong>Voice and Text Narrations</strong></summary>
 
-  <img src="6.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
+  <img src="block-ar-3x3x3rubik-solver-mobile_6.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
   *Short description of the video.*
 </details>
   <details>
   <summary><strong>Voice and Text Narrations</strong></summary>
 
-  <img src="7.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
+  <img src="block-ar-3x3x3rubik-solver-mobile_7.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
   *Short description of the video.*
 </details>
   <details>
   <summary><strong>Layer Movements</strong></summary>
 
-  <img src="8.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
+  <img src="block-ar-3x3x3rubik-solver-mobile_8.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
   *Short description of the video.*
 </details>
   <details>
   <summary><strong>Layer Movements</strong></summary>
 
-  <img src="9.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
+  <img src="block-ar-3x3x3rubik-solver-mobile_9.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
   *Short description of the video.*
 </details>
@@ -119,7 +119,7 @@ What sets Block AR apart is its unique feature that allows the game itself to le
 <details>
   <summary><strong>Win</strong></summary>
 
-  <img src="10.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
+  <img src="block-ar-3x3x3rubik-solver-mobile_10.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
   *Short description of the video.*
 </details>
@@ -127,7 +127,7 @@ What sets Block AR apart is its unique feature that allows the game itself to le
 <details>
   <summary><strong>InGame UI</strong></summary>
 
-  <img src="11.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
+  <img src="block-ar-3x3x3rubik-solver-mobile_11.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
   *Short description of the video.*
 </details>
@@ -135,7 +135,7 @@ What sets Block AR apart is its unique feature that allows the game itself to le
 <details>
   <summary><strong>Smooth Rotation</strong></summary>
 
-  <img src="12.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
+  <img src="block-ar-3x3x3rubik-solver-mobile_12.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
   *Short description of the video.*
 </details>
@@ -143,7 +143,7 @@ What sets Block AR apart is its unique feature that allows the game itself to le
 <details>
   <summary><strong>UI Window</strong></summary>
 
-  <img src="13.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
+  <img src="block-ar-3x3x3rubik-solver-mobile_13.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
   *Short description of the video.*
 </details>
@@ -151,7 +151,7 @@ What sets Block AR apart is its unique feature that allows the game itself to le
 <details>
   <summary><strong>UI Window</strong></summary>
 
-  <img src="14.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
+  <img src="block-ar-3x3x3rubik-solver-mobile_14.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
   *Short description of the video.*
 </details>
@@ -159,7 +159,7 @@ What sets Block AR apart is its unique feature that allows the game itself to le
 <details>
   <summary><strong>UI Window</strong></summary>
 
-  <img src="15.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
+  <img src="block-ar-3x3x3rubik-solver-mobile_15.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
   *Short description of the video.*
 </details>
@@ -167,33 +167,11 @@ What sets Block AR apart is its unique feature that allows the game itself to le
 <details>
   <summary><strong>UI Window</strong></summary>
 
-  <img src="16.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
+  <img src="block-ar-3x3x3rubik-solver-mobile_16.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
   *Short description of the video.*
 </details>
 
-</details>
-
-
-
-## Vedios
-
-<details>
-  <summary><strong>Video 1</strong></summary>
-
-  <a href="https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_1">
-    <img src="https://i.ytimg.com/an_webp/NO2USfroroU/mqdefault_6s.webp?du=3000&sqp=CJGqqa4G&rs=AOn4CLBwBWBD8TWxyPHY3mmm3jON2Qnrtg" alt="Video 1" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
-  </a>
-
-  *Short description of the video.*
-</details>
-
-<details>
-  <summary><strong>Video 1</strong></summary>
-
-  [![Video 1](https://i.ytimg.com/an_webp/NO2USfroroU/mqdefault_6s.webp?du=3000&sqp=CJGqqa4G&rs=AOn4CLBwBWBD8TWxyPHY3mmm3jON2Qnrtg)](https://www.youtube.com/watch?v=iQ1BoMOWDGk)
-  
-  *Short description of the video.*
 </details>
 
 ## Project Summary
