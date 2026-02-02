@@ -50,7 +50,6 @@ A groundbreaking app that redefines the way you engage with products through the
   
   <img src="ar-ai-based-simulator-showcase-application_1.jpg" alt="Image1" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
-  *Short description of the video.*
 </details>
 
 <details>
@@ -58,7 +57,6 @@ A groundbreaking app that redefines the way you engage with products through the
 
   <img src="ar-ai-based-simulator-showcase-application_2.jpg" alt="Image2" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
-  *Short description of the video.*
 </details>
 
 <details>
@@ -66,7 +64,6 @@ A groundbreaking app that redefines the way you engage with products through the
 
   <img src="ar-ai-based-simulator-showcase-application_3.jpg" alt="Image3" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
-  *Short description of the video.*
 </details>
 
 <details>
@@ -74,7 +71,6 @@ A groundbreaking app that redefines the way you engage with products through the
 
   <img src="ar-ai-based-simulator-showcase-application_4.jpg" alt="Image4" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
-  *Short description of the video.*
 </details>
 
 <details>
@@ -82,7 +78,6 @@ A groundbreaking app that redefines the way you engage with products through the
 
   <img src="ar-ai-based-simulator-showcase-application_5.jpg" alt="Image2" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
-  *Short description of the video.*
 </details>
 
 <details>
@@ -90,7 +85,6 @@ A groundbreaking app that redefines the way you engage with products through the
 
   <img src="ar-ai-based-simulator-showcase-application_6.jpg" alt="Image3" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
-  *Short description of the video.*
 </details>
 
 <details>
@@ -98,7 +92,6 @@ A groundbreaking app that redefines the way you engage with products through the
 
   <img src="ar-ai-based-simulator-showcase-application_7.jpg" alt="Image4" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
-  *Short description of the video.*
 </details>
 
 <details>
@@ -106,7 +99,6 @@ A groundbreaking app that redefines the way you engage with products through the
 
   <img src="ar-ai-based-simulator-showcase-application_8.jpg" alt="Image4" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
-  *Short description of the video.*
 </details>
 
 ## Project Summary
