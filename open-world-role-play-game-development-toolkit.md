@@ -25,7 +25,7 @@ Overall, the Open World RPG Development Toolkit is a comprehensive suite of tool
 ## KEY FEATURES
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/PROJECT-Advanced%20Player%20Movements-00C2FF?style=for-the-badge" alt="Advanced Player Movements">
+    <img src="https://img.shields.io/badge/01-Advanced%20Player%20Movements-00C2FF?style=for-the-badge" alt="Advanced Player Movements">
   </summary>
 
 - **Armed movements** – In armed movements, the player can run, walk, sprint, crouch, and roll **with a weapon**.  
@@ -34,30 +34,57 @@ Overall, the Open World RPG Development Toolkit is a comprehensive suite of tool
 </details>
 
 <details open>
-  <summary><strong>Weapon System</strong></summary>
+  <summary>
+    <img src="https://img.shields.io/badge/PROJECT-Weapon%20System-00C2FF?style=for-the-badge" alt="Weapon System">
+  </summary>
 
-  - Primary weapon
-  - Secondary weapon
-  - Hand Gun
+- **Primary weapon** – The main weapon available to the player.  
+- **Secondary weapon** – A backup weapon for combat situations.  
+- **Handgun** – A small, fast-firing firearm for quick encounters.  
+
 </details>
 
 <details open>
-  <summary><strong>Dialogue System</strong></summary>
+  <summary>
+    <img src="https://img.shields.io/badge/PROJECT-Dialogue%20System-00C2FF?style=for-the-badge" alt="Dialogue System">
+  </summary>
 
-  - In this section, the dialogue system in this toolkit is described in detail. Open world RPG’s are mostly use intractable dialogue systems for use in quests or when interacting with NPCs. So, here implemented an interactive dialogue system tothe  standard of open world RPG games. It is an actor class containing an invisible. When an object (character) hits the collusion in triggers the functionalities for the dialogue system that sound manager class contains a variable array for the dialogue audio files.
+- This section describes the dialogue system in the toolkit in detail. Open world RPGs mostly use **interactable dialogue systems** for quests or NPC interactions. This toolkit implements an interactive dialogue system to the **standard of open world RPG games**.  
+
+- It is implemented as an **actor class** containing an invisible trigger. When a character enters the collision, it activates the dialogue functionalities. The **sound manager class** holds an array of dialogue audio files for playback.  
+
 </details>
 
 <details open>
-  <summary><strong>Inventory System</strong></summary>
+  <summary>
+    <img src="https://img.shields.io/badge/PROJECT-Inventory%20System-00C2FF?style=for-the-badge" alt="Inventory System">
+  </summary>
 
-  - In this section toolkits inventory system is described in detail. The inventory system is for object management which player interacts in the whole gameplay. In here it made by basically using of arrays. There are slots in the inventory and that slot number is customizable as user need. Each slot can contain any object that player interacts. If player picking ups the same object which already in the inventory it will added to the same slot and stack in that slot. It uses and temporary saves the slots numbers as a variable. So that made easy to adding pickups for the inventory. Also if user have any item in the inventory slot it shows a brief description of the specific item. If user clicked on an inventory slot it manage to use that object. For the pickup items there is a master pickup item as done in the weapon system. So user can make many pickup item types by parenting that class and just want to set its properties from the property panel. This system uses a structure called “Itemstruct” (see Figure 15). It contains all the possible properties of a pickupable item and can be editable for each pickup. In property panel. The inventory user interface has a game-ready look as the open world RPG standards. So can be used in raw without implementing.
+- This section describes the inventory system in detail. The inventory manages all objects the player interacts with during gameplay.  
+
+- It is implemented using **arrays**, with customizable slot numbers. Each slot can hold any object. If a player picks up an item already in the inventory, it **stacks in the same slot**.  
+
+- Slot numbers are temporarily stored in a variable, making it easy to manage pickups. Clicking on an inventory slot allows the player to **use the item**, and hovering shows a **brief description**.  
+
+- Pickup items are derived from a **master pickup class**, allowing the creation of multiple item types by inheritance. Each item’s properties can be customized in the **property panel**.  
+
+- The inventory UI has a **game-ready look**, conforming to open world RPG standards, so it can be used directly without further implementation.  
+
 </details>
 
 <details open>
-  <summary><strong>Intractable Drone System</strong></summary>
+  <summary>
+    <img src="https://img.shields.io/badge/PROJECT-Intractable%20Drone%20System-00C2FF?style=for-the-badge" alt="Intractable Drone System">
+  </summary>
 
-  - This toolkit contains a implemented functionality for an intractable drone vehicle. This is a new feature which coming with this Open World RPG development toolkit. When player interact with the drone the player controller shift from player character to drone vehicle. For the drone there are different input system to control which can be customizable. This functionality has a first person view and player able to shift between first person and third person view in the same game with a different experience.
+- This toolkit includes a functionality for an **interactable drone vehicle**, a new feature in the Open World RPG development toolkit.  
+
+- When a player interacts with the drone, the **player controller switches** from the character to the drone. The drone has a **customizable input system**, allowing different control schemes.  
+
+- The drone supports **first-person and third-person views**, giving players a unique experience as they shift between perspectives during gameplay.  
+
 </details>
+
 
 
 ## Screenshots
