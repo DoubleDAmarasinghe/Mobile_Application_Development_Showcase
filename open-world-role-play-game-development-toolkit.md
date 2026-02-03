@@ -48,21 +48,45 @@ Overall, the Open World RPG Development Toolkit is a comprehensive suite of tool
 
 ## Screenshots
 <details open>
-  <summary><strong>Drone</strong></summary>
+  <summary><strong>Snap Shot</strong></summary>
+  
+  <img src="open-world-role-play-game-development-toolkit_19.jpg" alt="Image1" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
+  
+</details>
+<details open>
+  <summary><strong>Snap Shot</strong></summary>
+  
+  <img src="open-world-role-play-game-development-toolkit_20.jpg" alt="Image1" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
+  
+</details>
+<details open>
+  <summary><strong>Snap Shot</strong></summary>
+  
+  <img src="open-world-role-play-game-development-toolkit_21.jpg" alt="Image1" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
+  
+</details>
+<details open>
+  <summary><strong>Snap Shot</strong></summary>
+  
+  <img src="open-world-role-play-game-development-toolkit_22.jpg" alt="Image1" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
+  
+</details>
+<details open>
+  <summary><strong>Snap Shot</strong></summary>
   
   <img src="open-world-role-play-game-development-toolkit_1.jpg" alt="Image1" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
 <details open>
-  <summary><strong>Inventory System</strong></summary>
+  <summary><strong>Snap Shot System</strong></summary>
 
   <img src="open-world-role-play-game-development-toolkit_2.jpg" alt="Image2" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
 <details open>
-  <summary><strong>Interactions</strong></summary>
+  <summary><strong>Snap Shot</strong></summary>
 
   <img src="open-world-role-play-game-development-toolkit_3.jpg" alt="Image3" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
