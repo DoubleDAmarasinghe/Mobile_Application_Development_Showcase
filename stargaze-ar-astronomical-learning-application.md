@@ -78,14 +78,27 @@
   </summary>
 
   <img src="stargaze-ar-astronomical-learning-application_1.jpg" alt="Landing Page" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
+</details>
+
+<details open>
+  <summary>
+    <img src="https://img.shields.io/badge/02-AR%20Wrld%20Spawning-ffce2b?style=for-the-badge" alt="Landing Page">
+  </summary>
+
   <img src="stargaze-ar-astronomical-learning-application_2.jpg" alt="AR World" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
 </details>
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/02-AR%20World-ffce2b?style=for-the-badge" alt="AR World">
+    <img src="https://img.shields.io/badge/03-Show%20Localized%20Details-ffce2b?style=for-the-badge" alt="AR World">
   </summary>
   <img src="stargaze-ar-astronomical-learning-application_3.jpg" alt="AR World" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
+</details>
+
+details open>
+  <summary>
+    <img src="https://img.shields.io/badge/04-AR%20Wrld%20Spawning-ffce2b?style=for-the-badge" alt="AR World">
+  </summary>
   <img src="stargaze-ar-astronomical-learning-application_4.jpg" alt="AR World" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
 </details>
 
