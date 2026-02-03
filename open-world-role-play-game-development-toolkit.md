@@ -286,8 +286,6 @@
 
 ## Project Summary
 
-## Project Summary
-
 | **Category**       | **Details**                           |
 |--------------------|---------------------------------------|
 | **Platform**       | Unreal Engine Editor                   |
