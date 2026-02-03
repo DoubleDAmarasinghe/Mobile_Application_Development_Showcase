@@ -12,6 +12,22 @@
 
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/✦%20KEY%20FEATURES%20✦-111111?style=for-the-badge">
+</p>
+> Includes inventory system, dialogue system, weapon mechanics, drone interactions, and immersive RPG controls.
+
+<p align="center">
+<img src="https://img.shields.io/badge/📸%20SCREENSHOTS-111111?style=for-the-badge">
+</p>
+> Visual previews of all major features, environments, and UI layouts for a quick overview.
+
+<p align="center">
+<img src="https://img.shields.io/badge/💾%20INSTALLATION-111111?style=for-the-badge">
+</p>
+> Step-by-step instructions for setting up the project locally or on your preferred platform.
+
+
 
 
 The Open World RPG Development Toolkit is a blueprint framework designed for game developers who want to create open world role-playing games using the powerful Unreal Engine. With this toolkit, developers can build immersive and expansive worlds, complete with customizable characters controllers, dialogue systems, weapon systems and much more.
