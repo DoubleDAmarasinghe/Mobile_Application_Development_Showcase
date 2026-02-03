@@ -12,6 +12,11 @@
 
 </p>
 
+![NOTE](https://img.shields.io/badge/NOTE-Important-FF6F61?style=for-the-badge)
+
+> This feature requires additional setup for advanced customization.
+
+
 
 
 
