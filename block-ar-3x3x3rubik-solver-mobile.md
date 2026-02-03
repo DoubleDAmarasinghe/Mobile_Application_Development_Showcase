@@ -75,14 +75,14 @@ What sets Block AR apart is its unique feature that allows the game itself to le
 
   <img src="block-ar-3x3x3rubik-solver-mobile_4.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
+</details>
 <details open>
-  <details>
   <summary><strong>Adjust Transform</strong></summary>
 
   <img src="block-ar-3x3x3rubik-solver-mobile_5.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
+</details>
 <details open>
-  <details>
   <summary><strong>Voice and Text Narrations</strong></summary>
 
   <img src="block-ar-3x3x3rubik-solver-mobile_6.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
