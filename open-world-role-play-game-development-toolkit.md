@@ -78,98 +78,98 @@ Overall, the Open World RPG Development Toolkit is a comprehensive suite of tool
 <details open>
   <summary><strong>Snap Shot</strong></summary>
 
-  <img src="open-world-role-play-game-development-toolkit_5.jpeg" alt="Image5" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
+  <img src="open-world-role-play-game-development-toolkit_5.jpg" alt="Image5" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
 <details open>
   <summary><strong>Snap Shot</strong></summary>
 
-  <img src="open-world-role-play-game-development-toolkit_6.jpeg" alt="Image6" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
+  <img src="open-world-role-play-game-development-toolkit_6.jpg" alt="Image6" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
 <details open>
   <summary><strong>Snap Shot</strong></summary>
 
-  <img src="open-world-role-play-game-development-toolkit_7.jpeg" alt="Image7" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
+  <img src="open-world-role-play-game-development-toolkit_7.jpg" alt="Image7" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
 <details open>
   <summary><strong>Snap Shot</strong></summary>
 
-  <img src="open-world-role-play-game-development-toolkit_8.jpeg" alt="Image8" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
+  <img src="open-world-role-play-game-development-toolkit_8.jpg" alt="Image8" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
 <details open>
   <summary><strong>Snap Shot</strong></summary>
 
-  <img src="open-world-role-play-game-development-toolkit_9.jpeg" alt="Image9" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
+  <img src="open-world-role-play-game-development-toolkit_9.jpg" alt="Image9" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
 <details open>
   <summary><strong>Snap Shot</strong></summary>
 
-  <img src="open-world-role-play-game-development-toolkit_10.jpeg" alt="Image10" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
+  <img src="open-world-role-play-game-development-toolkit_10.jpg" alt="Image10" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
 <details open>
   <summary><strong>Snap Shot</strong></summary>
 
-  <img src="open-world-role-play-game-development-toolkit_11.jpeg" alt="Image11" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
+  <img src="open-world-role-play-game-development-toolkit_11.jpg" alt="Image11" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
 <details open>
   <summary><strong>Snap Shot</strong></summary>
 
-  <img src="open-world-role-play-game-development-toolkit_12.jpeg" alt="Image12" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
+  <img src="open-world-role-play-game-development-toolkit_12.jpg" alt="Image12" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
 <details open>
   <summary><strong>Snap Shot</strong></summary>
 
-  <img src="open-world-role-play-game-development-toolkit_13.jpeg" alt="Image13" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
+  <img src="open-world-role-play-game-development-toolkit_13.jpg" alt="Image13" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
 <details open>
   <summary><strong>Snap Shot</strong></summary>
 
-  <img src="open-world-role-play-game-development-toolkit_14.jpeg" alt="Image14" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
+  <img src="open-world-role-play-game-development-toolkit_14.jpg" alt="Image14" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
 <details open>
   <summary><strong>Snap Shot</strong></summary>
 
-  <img src="open-world-role-play-game-development-toolkit_15.jpeg" alt="Image15" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
+  <img src="open-world-role-play-game-development-toolkit_15.jpg" alt="Image15" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
 <details open>
   <summary><strong>Snap Shot</strong></summary>
 
-  <img src="open-world-role-play-game-development-toolkit_16.jpeg" alt="Image16" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
+  <img src="open-world-role-play-game-development-toolkit_16.jpg" alt="Image16" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
 <details open>
   <summary><strong>Snap Shot</strong></summary>
 
-  <img src="open-world-role-play-game-development-toolkit_17.jpeg" alt="Image17" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
+  <img src="open-world-role-play-game-development-toolkit_17.jpg" alt="Image17" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
 <details open>
   <summary><strong>Snap Shot</strong></summary>
 
-  <img src="open-world-role-play-game-development-toolkit_18.jpeg" alt="Image18" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
+  <img src="open-world-role-play-game-development-toolkit_18.jpg" alt="Image18" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
