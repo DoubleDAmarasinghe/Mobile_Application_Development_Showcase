@@ -35,7 +35,7 @@ Overall, the Open World RPG Development Toolkit is a comprehensive suite of tool
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/PROJECT-Weapon%20System-00C2FF?style=for-the-badge" alt="Weapon System">
+    <img src="https://img.shields.io/badge/02-Weapon%20System-00C2FF?style=for-the-badge" alt="Weapon System">
   </summary>
 
 - **Primary weapon** – The main weapon available to the player.  
@@ -46,7 +46,7 @@ Overall, the Open World RPG Development Toolkit is a comprehensive suite of tool
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/PROJECT-Dialogue%20System-00C2FF?style=for-the-badge" alt="Dialogue System">
+    <img src="https://img.shields.io/badge/03-Dialogue%20System-00C2FF?style=for-the-badge" alt="Dialogue System">
   </summary>
 
 - This section describes the dialogue system in the toolkit in detail. Open world RPGs mostly use **interactable dialogue systems** for quests or NPC interactions. This toolkit implements an interactive dialogue system to the **standard of open world RPG games**.  
@@ -57,7 +57,7 @@ Overall, the Open World RPG Development Toolkit is a comprehensive suite of tool
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/PROJECT-Inventory%20System-00C2FF?style=for-the-badge" alt="Inventory System">
+    <img src="https://img.shields.io/badge/04-Inventory%20System-00C2FF?style=for-the-badge" alt="Inventory System">
   </summary>
 
 - This section describes the inventory system in detail. The inventory manages all objects the player interacts with during gameplay.  
@@ -74,7 +74,7 @@ Overall, the Open World RPG Development Toolkit is a comprehensive suite of tool
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/PROJECT-Intractable%20Drone%20System-00C2FF?style=for-the-badge" alt="Intractable Drone System">
+    <img src="https://img.shields.io/badge/05-Intractable%20Drone%20System-00C2FF?style=for-the-badge" alt="Intractable Drone System">
   </summary>
 
 - This toolkit includes a functionality for an **interactable drone vehicle**, a new feature in the Open World RPG development toolkit.  
