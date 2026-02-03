@@ -286,13 +286,16 @@
 
 ## Project Summary
 
-| Tittle         | Description             |
-|------------------|-------------------------------------|
-| **Platform**     | Uneral Engine Editor                  |
-| **Languages**      | C++, Blueprints                    |
-| **API**     | -                             |
-| **Version Control** | GitHub                        |
-| **Deployment**   | Unreal Engine 4.27                       |
+## Project Summary
+
+| **Category**       | **Details**                           |
+|--------------------|---------------------------------------|
+| **Platform**       | Unreal Engine Editor                   |
+| **Languages**      | C++, Blueprints                        |
+| **API**            | None                                   |
+| **Version Control**| GitHub                                  |
+| **Deployment**     | Unreal Engine 4.27                     |
+
 
 
 ## Installation
