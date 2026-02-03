@@ -3,12 +3,6 @@
 <p align="center">
 
 ![Project](https://img.shields.io/badge/PROJECT-OPEN%20WORLD%20RPG%20GAME%20DEVELOPMENT%20TOOL%20KIT-111111?style=for-the-badge)
-![Build](https://img.shields.io/badge/BUILD-PASSING-brightgreen?style=for-the-badge)
-![Version](https://img.shields.io/badge/VERSION-v1.0.0-00C2FF?style=for-the-badge)
-![Language](https://img.shields.io/badge/LANGUAGE-C%23-purple?style=for-the-badge)
-![Platform](https://img.shields.io/badge/PLATFORM-Android%20%7C%20iOS-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/STATUS-Production-7a5cff?style=for-the-badge)
-![License](https://img.shields.io/badge/LICENSE-MIT-lightgrey?style=for-the-badge)
 
 </p>
 
