@@ -20,9 +20,9 @@ The framework is highly modular and customizable, allowing developers to create 
 Overall, the Open World RPG Development Toolkit is a comprehensive suite of tools for game developers who want to create immersive and expansive role-playing games using the Unreal Engine. With its modular design and customizable features, the toolkit offers developers a range of options for creating unique RPG experiences that engage and delight players.
 
 ## KEY FEATURES
-
-<details open>
   ![](https://img.shields.io/badge/just%20the%20message-8A2BE2)
+<details open>
+
   <summary><strong>Advanced Player Movements</strong></summary>
 
   - Armed movements - In unarmed movements player can run, walk, sprint, crouch and roll movements with a weapon.
