@@ -8,37 +8,37 @@ A groundbreaking app that redefines the way you engage with products through the
 
 ## KEY FEATURES
 
-<details>
+<details open>
   <summary><strong>Augmented Reality Exploration</strong></summary>
 
   - Immerse yourself in the AR world and bring products to life. Visualize 3D models in your physical space, providing a realistic and interactive experience.
 </details>
 
-<details>
+<details open>
   <summary><strong>Non-AR Compatibility</strong></summary>
 
   - No AR? No problem! ProductSim seamlessly transitions between AR and non-AR environments, ensuring accessibility for all users. Explore 3D models with or without augmented reality.
 </details>
 
-<details>
+<details open>
   <summary><strong>Interactive Product Parts</strong></summary>
 
   - Dive into the intricate details of products by interacting with individual parts. Zoom, rotate, and dissect components to gain a comprehensive understanding of the product's design and functionality.
 </details>
 
-<details>
+<details open>
   <summary><strong>AI-Talkable Instructor</strong></summary>
 
   - Meet your AI companion, the Talkable Instructor. Ask questions, seek detailed information, and receive real-time responses. The AI is your virtual guide, providing insights, specifications, and answering any queries you may have about the product.
 </details>
 
-<details>
+<details open>
   <summary><strong>User-Friendly Interface</strong></summary>
 
   - Enjoy a user-friendly interface designed for seamless navigation. Effortlessly switch between 3D models, access the Talkable Instructor, and customize your interaction with products to suit your preferences.
 </details>
 
-<details>
+<details open>
   <summary><strong>Educational and Informative </strong></summary>
 
   - Whether you're a professional in the field or a curious consumer, ProductSim serves as an educational tool. Gain valuable insights into product features, functionality, and design through an engaging and informative experience.
