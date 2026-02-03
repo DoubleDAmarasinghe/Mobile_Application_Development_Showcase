@@ -22,6 +22,7 @@ Overall, the Open World RPG Development Toolkit is a comprehensive suite of tool
 ## KEY FEATURES
 
 <details open>
+  ![](https://img.shields.io/badge/just%20the%20message-8A2BE2)
   <summary><strong>Advanced Player Movements</strong></summary>
 
   - Armed movements - In unarmed movements player can run, walk, sprint, crouch and roll movements with a weapon.
