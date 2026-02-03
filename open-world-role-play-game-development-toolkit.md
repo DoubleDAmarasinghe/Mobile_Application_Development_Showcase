@@ -16,9 +16,9 @@
 
 > The Open World RPG Development Toolkit is a blueprint framework designed for game developers who want to create open-world role-playing games using the powerful Unreal Engine. With this toolkit, developers can build immersive and expansive worlds, featuring customizable character controllers, dialogue systems, weapon systems, and much more.
 
-The framework is highly modular and flexible, allowing developers to craft unique RPG experiences that match their vision. One of its core features is a comprehensive inventory system, which simplifies the creation and management of player inventories, interactable objects, and pickups. Additionally, the toolkit provides tools for branching storylines, scripted events, and other dynamic elements, ensuring that players remain engaged and immersed in the game world.
+> The framework is highly modular and flexible, allowing developers to craft unique RPG experiences that match their vision. One of its core features is a comprehensive inventory system, which simplifies the creation and management of player inventories, interactable objects, and pickups. Additionally, the toolkit provides tools for branching storylines, scripted events, and other dynamic elements, ensuring that players remain engaged and immersed in the game world.
 
-Overall, the Open World RPG Development Toolkit is a complete suite of tools for developing immersive role-playing games in Unreal Engine. Its modular design and customizable features give developers the flexibility to create distinctive RPG experiences that captivate and delight players.
+> Overall, the Open World RPG Development Toolkit is a complete suite of tools for developing immersive role-playing games in Unreal Engine. Its modular design and customizable features give developers the flexibility to create distinctive RPG experiences that captivate and delight players.
 
 
 
