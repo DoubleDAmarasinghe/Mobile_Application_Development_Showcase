@@ -50,28 +50,28 @@ Overall, the Open World RPG Development Toolkit is a comprehensive suite of tool
 <details open>
   <summary><strong>Drone</strong></summary>
   
-  <img src="open-world-role-play-game-development-toolkit_1.jpeg" alt="Image1" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
+  <img src="open-world-role-play-game-development-toolkit_1.jpg" alt="Image1" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
 <details open>
   <summary><strong>Inventory System</strong></summary>
 
-  <img src="open-world-role-play-game-development-toolkit_2.jpeg" alt="Image2" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
+  <img src="open-world-role-play-game-development-toolkit_2.jpg" alt="Image2" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
 <details open>
   <summary><strong>Interactions</strong></summary>
 
-  <img src="open-world-role-play-game-development-toolkit_3.jpeg" alt="Image3" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
+  <img src="open-world-role-play-game-development-toolkit_3.jpg" alt="Image3" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
 <details open>
   <summary><strong>Snap Shot</strong></summary>
 
-  <img src="open-world-role-play-game-development-toolkit_4.jpeg" alt="Image4" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
+  <img src="open-world-role-play-game-development-toolkit_4.jpg" alt="Image4" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
