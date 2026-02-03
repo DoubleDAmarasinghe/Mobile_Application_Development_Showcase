@@ -14,78 +14,78 @@ However, players must be on guard, as the hacking prowess of characters like Ron
 
 ## KEY FEATURES
 
-<details>
+<details open>
   <summary><strong>Diverse Characters</strong></summary>
 
   - Explore a vast array of characters, each with unique abilities and roles such as hackers, builders, medics, and defenders. Customize your gameplay experience by choosing the character that best suits your playstyle.
 </details>
 
-<details>
+<details open>
   <summary><strong>Immersive Environments</strong></summary>
 
   - Immerse yourself in meticulously crafted virtual realms, designed by visionary builders like Kai. From towering skyscrapers to fantastical landscapes, every environment is a masterpiece waiting to be explored.
 </details>
 
-<details>
+<details open>
   <summary><strong>Virtual Economy with BURT-Y:</strong></summary>
 
   - Enter a virtual marketplace facilitated by BURT-Y, a mysterious figure connecting players for the exchange of agents. Navigate the digital economy, buy and sell resources, and uncover the secrets of this enigmatic character.
 </details>
 
-<details>
+<details open>
   <summary><strong>Hacking Challenges</strong></summary>
 
   - Face the hacking prowess of Ron and Tom, adding an element of unpredictability to your journey. Protect your agents, outsmart the hackers, and maintain balance in the virtual realm.
 </details>
 
-<details>
+<details open>
   <summary><strong>Strategic Defense with Ada</strong></summary>
 
   - Team up with Ada, "The Defender," to fortify your allies and create a robust defense against virtual adversaries. Strategic thinking is crucial as you navigate through battles and challenges.
 </details>
 
-<details>
+<details open>
   <summary><strong>Virtual Medicine with Lucy</strong></summary>
 
   -  Benefit from the healing abilities of Lucy, "The Medic," providing essential support in the midst of battles. Receive virtual potions, healing spells, and emotional support to ensure your survival and success.
 </details>
 
 ## Screenshots
-<details>
+<details open>
   <summary><strong>Landing Page</strong></summary>
   
   <img src="volt-launcher-game-management-application_1.png" alt="Image1" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
 
 </details>
 
-<details>
+<details open>
   <summary><strong>VOLT Library</strong></summary>
 
   <img src="volt-launcher-game-management-application_2.png" alt="Image2" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
-<details>
+<details open>
   <summary><strong>Buy</strong></summary>
 
   <img src="volt-launcher-game-management-application_3.png" alt="Image3" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
-<details>
+<details open>
   <summary><strong>Agent Showcase</strong></summary>
 
   <img src="volt-launcher-game-management-application_4.png" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
-<details>
+<details open>
   <summary><strong>Agent Showcase</strong></summary>
 
   <img src="volt-launcher-game-management-application_5.png" alt="Image3" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
-<details>
+<details open>
   <summary><strong>Agent Showcase</strong></summary>
 
   <img src="volt-launcher-game-management-application_6.png" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
