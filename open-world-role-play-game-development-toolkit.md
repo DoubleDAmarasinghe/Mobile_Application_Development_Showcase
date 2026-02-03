@@ -1,18 +1,5 @@
 # OPEN WORLD RPG GAME DEVELOPMENT TOOLKIT
 
-![GitHub last commit](https://img.shields.io/github/last-commit/doubledhqbase/open-world-role-play-game-development-toolkit)
-![GitHub language count](https://img.shields.io/github/languages/count/doubledhqbase/open-world-role-play-game-development-toolkit)
-![GitHub](https://img.shields.io/github/license/doubledhqbase/open-world-role-play-game-development-toolkit)
-![Unreal Engine](https://img.shields.io/badge/Engine-Unreal%20Engine-black)
-![Unity](https://img.shields.io/badge/Engine-Unity-black?logo=unity)
-![Xamarin](https://img.shields.io/badge/Framework-Xamarin-blue)
-![C#](https://img.shields.io/badge/Language-C%23-purple)
-![C++](https://img.shields.io/badge/Language-C%2B%2B-blue)
-![](https://img.shields.io/badge/just%20the%20message-8A2BE2)
-
-
-
-
 The Open World RPG Development Toolkit is a blueprint framework designed for game developers who want to create open world role-playing games using the powerful Unreal Engine. With this toolkit, developers can build immersive and expansive worlds, complete with customizable characters controllers, dialogue systems, weapon systems and much more.
 
 The framework is highly modular and customizable, allowing developers to create unique RPG experiences that fit their vision. One of the core features of the toolkit is its comprehensive inventory system, which makes it easy for developers to create and manage inventory, intractable, and pickups for their players. This system includes a range of tools for creating branching storylines, scripted events, and other dynamic elements that keep players engaged and immersed in the game world.
@@ -20,7 +7,6 @@ The framework is highly modular and customizable, allowing developers to create 
 Overall, the Open World RPG Development Toolkit is a comprehensive suite of tools for game developers who want to create immersive and expansive role-playing games using the Unreal Engine. With its modular design and customizable features, the toolkit offers developers a range of options for creating unique RPG experiences that engage and delight players.
 
 ## KEY FEATURES
-  ![](https://img.shields.io/badge/just%20the%20message-8A2BE2)
 <details open>
 
   <summary><strong>Advanced Player Movements</strong></summary>
