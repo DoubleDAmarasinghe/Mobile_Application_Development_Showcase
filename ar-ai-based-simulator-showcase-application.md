@@ -45,56 +45,56 @@ A groundbreaking app that redefines the way you engage with products through the
 </details>
 
 ## Screenshots
-<details>
+<details open>
   <summary><strong>Landing Page </strong></summary>
   
   <img src="ar-ai-based-simulator-showcase-application_1.jpg" alt="Image1" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
-<details>
+<details open>
   <summary><strong>Non AR Simulator</strong></summary>
 
   <img src="ar-ai-based-simulator-showcase-application_2.jpg" alt="Image2" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
-<details>
+<details open>
   <summary><strong>Interact With Partsr</strong></summary>
 
   <img src="ar-ai-based-simulator-showcase-application_3.jpg" alt="Image3" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
-<details>
+<details open>
   <summary><strong>Slide Show</strong></summary>
 
   <img src="ar-ai-based-simulator-showcase-application_4.jpg" alt="Image4" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
-<details>
+<details open>
   <summary><strong>AI Assistance</strong></summary>
 
   <img src="ar-ai-based-simulator-showcase-application_5.jpg" alt="Image2" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
-<details>
+<details open>
   <summary><strong>Connecting to AI API</strong></summary>
 
   <img src="ar-ai-based-simulator-showcase-application_6.jpg" alt="Image3" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
-<details>
+<details open>
   <summary><strong>AR World</strong></summary>
 
   <img src="ar-ai-based-simulator-showcase-application_7.jpg" alt="Image4" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
-<details>
+<details open>
   <summary><strong>AR World</strong></summary>
 
   <img src="ar-ai-based-simulator-showcase-application_8.jpg" alt="Image4" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
