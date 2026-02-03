@@ -16,65 +16,65 @@ Whether you're a space enthusiast, an aspiring astronomer, or simply someone loo
 
 ## KEY FEATURES
 
-<details>
+<details open>
   <summary><strong>Spawn and Interact with Immersive World</strong></summary>
 
   - Immerse yourself in a captivating universe where the boundaries between reality and the virtual cosmos blur. With Stargaze, not only can you effortlessly spawn celestial bodies like planets, stars, and moons into your surroundings, but you can also interact with them in real-time. Witness planets orbiting, stars twinkling, and moons changing phases as you navigate through this mesmerizing augmented reality experience.
 </details>
 
-<details>
+<details open>
   <summary><strong>Optimized and Fastest Experiance through Asset Bundles</strong></summary>
 
-  - Stargaze is engineered for optimal performance, ensuring a seamless and lightning-fast experience. Leveraging the power of asset bundles, the application efficiently manages and loads assets, guaranteeing a smooth and responsive encounter. Dive into the cosmic wonders without delays, enjoying a high-performance AR application that prioritizes speed and efficiency.
+  - Stargaze is engineered for optimal performance, ensuring a seamless and lightning-fast experience. Leveraging the power of asset bundles, the application efficiently manages and loads assets, guaranteeing a smooth and responsive experience. Dive into the cosmic wonders without delays, enjoying a high-performance AR application that prioritizes speed and efficiency.
 </details>
 
-<details>
+<details open>
   <summary><strong>AR Core Supported Mobile Devices Support</strong></summary>
 
-  - Stargaze is tailored for Android AR Core supported mobile devices, ensuring widespread compatibility. Whether you're using the latest smartphone or a trusted device with AR Core capabilities, you can embark on your celestial journey with confidence, experiencing the full spectrum of augmented reality features on a broad range of supported devices.
+  - Stargaze is tailored for Android AR Core-supported mobile devices, ensuring widespread compatibility. Whether you're using the latest smartphone or a trusted device with AR Core capabilities, you can embark on your celestial journey with confidence, experiencing the full spectrum of augmented reality features on a broad range of supported devices.
 </details>
 
-<details>
+<details open>
   <summary><strong>Localization and Multi Language Support</strong></summary>
 
   - Stargaze is a truly global experience with built-in localization and multi-language support. Explore the cosmos in your preferred language, as the application seamlessly adapts to provide a personalized experience for users worldwide. Language barriers are transcended, allowing enthusiasts from diverse backgrounds to engage with the wonders of the universe effortlessly.
 </details>
 
-<details>
+<details open>
   <summary><strong>Easy Content Update</strong></summary>
 
   - Stay connected with the ever-evolving universe of Stargaze through hassle-free content updates. The application's intuitive design enables easy integration of new content, ensuring that users can consistently enjoy fresh experiences. From introducing new celestial bodies to enhancing interactive features, Stargaze evolves with the latest advancements, keeping the cosmic adventure dynamic and exciting.
 </details>
 
-<details>
+<details open>
   <summary><strong>Optimized and Detailed Assets </strong></summary>
 
   - Every celestial element within Stargaze is meticulously crafted, offering a balance of optimized performance and stunning detail. The application boasts highly detailed assets that bring the universe to life, from the intricate textures of planets to the realistic movements of orbiting bodies. Stargaze achieves a perfect synergy between visual fidelity and operational efficiency, providing an immersive experience without compromising on quality.
 </details>
 
 ## Screenshots
-<details>
+<details open>
   <summary><strong>Landing Page </strong></summary>
   
   <img src="stargaze-ar-astronomical-learning-application_1.jpg" alt="Image1" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
-<details>
+<details open>
   <summary><strong>AR World</strong></summary>
 
   <img src="stargaze-ar-astronomical-learning-application_2.jpg" alt="Image2" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
-<details>
+<details open>
   <summary><strong>AR World</strong></summary>
 
   <img src="stargaze-ar-astronomical-learning-application_3.jpg" alt="Image3" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
-<details>
+<details open>
   <summary><strong>AR World</strong></summary>
 
   <img src="stargaze-ar-astronomical-learning-application_4.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
