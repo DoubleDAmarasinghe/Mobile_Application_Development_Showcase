@@ -35,6 +35,7 @@
 ![divider](https://img.shields.io/badge/%E2%9A%A1%20FEATURES%20%E2%9A%A1-111827?style=for-the-badge)
 
 </div>
+![scanner](https://img.shields.io/badge/████████████%20SCAN%20ACTIVE%20████████████-000000?style=for-the-badge)
 
 
 
