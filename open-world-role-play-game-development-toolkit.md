@@ -89,7 +89,9 @@ Overall, the Open World RPG Development Toolkit is a comprehensive suite of tool
 
 ## Screenshots
 <details open>
-  <summary><strong>Snap Shot</strong></summary>
+  <summary>
+    <img src="https://img.shields.io/badge/01-Snap%20Shot-00C2DF?style=for-the-badge" alt="Intractable Drone System">
+  </summary>
   
   <img src="open-world-role-play-game-development-toolkit_19.jpeg" alt="Image1" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
