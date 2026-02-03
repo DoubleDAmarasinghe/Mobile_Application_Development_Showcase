@@ -1,4 +1,4 @@
-# BOLCK AR 3X3X3 RUBIC SOLVER APPLICATION
+# BLOCK AR 3X3X3 RUBIC SOLVER APPLICATION
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/doubledhqbase/stargaze-ar-astronomical-learning-application)
 ![GitHub language count](https://img.shields.io/github/languages/count/doubledhqbase/stargaze-ar-astronomical-learning-application)
