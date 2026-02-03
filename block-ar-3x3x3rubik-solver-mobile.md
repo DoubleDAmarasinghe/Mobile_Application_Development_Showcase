@@ -12,144 +12,144 @@ What sets Block AR apart is its unique feature that allows the game itself to le
 
 ## KEY FEATURES
 
-<details>
+<details open>
   <summary><strong>Augmented Reality Rubik's Cubed</strong></summary>
 
   - Immerse yourself in the augmented reality world where virtual Rubik's Cubes come to life, offering a visually stunning and interactive gaming experience.
 </details>
 
-<details>
+<details open>
   <summary><strong>Real-time Cube Solving</strong></summary>
 
   - Watch in amazement as the virtual Rubik's Cubes are solved in real-time, adding a dynamic and engaging element to the gameplay.
 </details>
 
-<details>
+<details open>
   <summary><strong>Tutorial Mode</strong></summary>
 
   - Perfect for beginners, the tutorial mode guides players through the fundamentals of solving the Rubik's Cube, providing step-by-step instructions and tips.
 </details>
 
-<details>
+<details open>
   <summary><strong>Learn to Solve</strong></summary>
 
   - Block AR goes beyond traditional gaming by allowing players to embark on a learning journey. The game observes and adapts to the player's solving techniques, providing a personalized and educational experience.
 </details>
 
-<details>
+<details open>
   <summary><strong>Interactive Spawning</strong></summary>
 
   - Spawn Rubik's Cubes at your fingertips, offering a tactile and intuitive way to manipulate and engage with the virtual puzzles.
 </details>
 
-<details>
+<details open>
   <summary><strong>Optimized and Detailed Assets </strong></summary>
 
   - Every celestial element within Stargaze is meticulously crafted, offering a balance of optimized performance and stunning detail. The application boasts highly detailed assets that bring the universe to life, from the intricate textures of planets to the realistic movements of orbiting bodies. Stargaze achieves a perfect synergy between visual fidelity and operational efficiency, providing an immersive experience without compromising on quality.
 </details>
 
 ## Screenshots
-<details>
+<details open>
   <summary><strong>Landing Page </strong></summary>
   
   <img src="block-ar-3x3x3rubik-solver-mobile_1.jpg" alt="Image1" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
-<details>
+<details open>
   <summary><strong>Chose Game Type</strong></summary>
 
   <img src="block-ar-3x3x3rubik-solver-mobile_2.jpg" alt="Image2" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
-<details>
+<details open>
   <summary><strong>Scanning Suface</strong></summary>
 
   <img src="block-ar-3x3x3rubik-solver-mobile_3.jpg" alt="Image3" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
-<details>
+<details open>
   <summary><strong>Mesh Spawn</strong></summary>
 
   <img src="block-ar-3x3x3rubik-solver-mobile_4.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
-</details>
+<details open>
   <details>
   <summary><strong>Adjust Transform</strong></summary>
 
   <img src="block-ar-3x3x3rubik-solver-mobile_5.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
-</details>
+<details open>
   <details>
   <summary><strong>Voice and Text Narrations</strong></summary>
 
   <img src="block-ar-3x3x3rubik-solver-mobile_6.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
-  <details>
+<details open>
   <summary><strong>Voice and Text Narrations</strong></summary>
 
   <img src="block-ar-3x3x3rubik-solver-mobile_7.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
-  <details>
+<details open>
   <summary><strong>Layer Movements</strong></summary>
 
   <img src="block-ar-3x3x3rubik-solver-mobile_8.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
-  <details>
+<details open>
   <summary><strong>Layer Movements</strong></summary>
 
   <img src="block-ar-3x3x3rubik-solver-mobile_9.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
-<details>
+<details open>
   <summary><strong>Win</strong></summary>
 
   <img src="block-ar-3x3x3rubik-solver-mobile_10.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
-<details>
+<details open>
   <summary><strong>InGame UI</strong></summary>
 
   <img src="block-ar-3x3x3rubik-solver-mobile_11.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
-<details>
+<details open>
   <summary><strong>Smooth Rotation</strong></summary>
 
   <img src="block-ar-3x3x3rubik-solver-mobile_12.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
-<details>
+<details open>
   <summary><strong>UI Window</strong></summary>
 
   <img src="block-ar-3x3x3rubik-solver-mobile_13.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
-<details>
+<details open>
   <summary><strong>UI Window</strong></summary>
 
   <img src="block-ar-3x3x3rubik-solver-mobile_14.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
-<details>
+<details open>
   <summary><strong>UI Window</strong></summary>
 
   <img src="block-ar-3x3x3rubik-solver-mobile_15.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
 
-<details>
+<details open>
   <summary><strong>UI Window</strong></summary>
 
   <img src="block-ar-3x3x3rubik-solver-mobile_16.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
