@@ -12,20 +12,6 @@
 
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/✦%20KEY%20FEATURES%20✦-111111?style=for-the-badge">
-</p>
-> Includes inventory system, dialogue system, weapon mechanics, drone interactions, and immersive RPG controls.
-
-<p align="center">
-<img src="https://img.shields.io/badge/📸%20SCREENSHOTS-111111?style=for-the-badge">
-</p>
-> Visual previews of all major features, environments, and UI layouts for a quick overview.
-
-<p align="center">
-<img src="https://img.shields.io/badge/💾%20INSTALLATION-111111?style=for-the-badge">
-</p>
-> Step-by-step instructions for setting up the project locally or on your preferred platform.
 
 
 
