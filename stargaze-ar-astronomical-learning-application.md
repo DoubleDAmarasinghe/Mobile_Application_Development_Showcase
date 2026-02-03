@@ -1,103 +1,114 @@
 # STARGAZE AR ASTRONOMICAL LEARNING APPLICATION
 
-![GitHub last commit](https://img.shields.io/github/last-commit/doubledhqbase/stargaze-ar-astronomical-learning-application)
-![GitHub language count](https://img.shields.io/github/languages/count/doubledhqbase/stargaze-ar-astronomical-learning-application)
-![GitHub](https://img.shields.io/github/license/doubledhqbase/stargaze-ar-astronomical-learning-application)
+![NOTE](https://img.shields.io/badge/PROJECT-SUMMARY-FF6F61?style=for-the-badge)
 
-Stargaze is a captivating and immersive augmented reality (AR) application meticulously crafted for Android AR-supported devices. This cutting-edge creation, developed using Unity AR Core and C#, catapults users into a celestial realm where the boundaries between reality and imagination blur.
+> Stargaze is a mesmerizing augmented reality (AR) application meticulously designed for Android AR-supported devices, bringing the wonders of the cosmos right into your hands. Developed with Unity AR Core and C#, Stargaze transforms ordinary surroundings into a celestial playground, where the line between reality and imagination fades, and the universe becomes your canvas.
 
-Embark on a cosmic journey as Stargaze seamlessly transports users to the vastness of space, allowing them to summon planets, stars, moons, and even entire solar systems into their surroundings. The universe unfolds at their fingertips, offering a mesmerizing experience that goes beyond conventional AR applications.
+> Step into the infinite expanse of space with Stargaze, where planets, stars, moons, and entire solar systems can be summoned and explored at your fingertips. Every celestial body is rendered in stunning detail, allowing users to zoom, rotate, and interact with the universe like never before. The app offers a deeply immersive experience, giving users a feeling of true cosmic presence, as if they were floating among the stars themselves.
 
-With an innovative blend of technology and creativity, Stargaze goes beyond the mundane, enabling users to interact with astronauts, space crafts, and galaxies in a way that feels remarkably real. The application's dynamic features create a playground of astronomical wonders, encouraging exploration and discovery.
+> Beyond simply visualizing space, Stargaze invites users to engage with astronauts, spacecraft, comets, and galaxies, creating interactive scenarios that combine learning and entertainment. Its dynamic features allow users to experiment with cosmic phenomena, observe orbital motions, and design their own interstellar arrangements, effectively turning every session into an educational adventure.
 
-Stargaze is not just an app; it's a portal to an alternate reality where users can manipulate the cosmos, bringing celestial bodies to life with a simple touch. The immersive nature of the application fosters a sense of wonder, making users feel like cosmic architects as they shape and design their own interstellar landscapes.
+> The app’s intuitive interface ensures both novices and astronomy enthusiasts can navigate the cosmos effortlessly. Beginners can explore celestial bodies with guided interactions, while advanced users can experiment with complex simulations and construct entire galaxies, fostering creativity and curiosity in ways traditional astronomy apps cannot.
 
-Whether you're a space enthusiast, an aspiring astronomer, or simply someone looking for a unique and enchanting AR experience, Stargaze promises to be a journey that transcends the ordinary. Immerse yourself in the marvels of the universe with this groundbreaking AR application, where the boundaries of imagination are stretched to new dimensions. Stargaze invites you to witness the cosmos in ways you've never imagined – it's not just an app; it's a celestial odyssey.
+> Stargaze is more than an AR application—it is a portal to another dimension, empowering users to become cosmic architects, shaping their own universe with simple gestures. Every interaction is a step closer to understanding the grandeur of the cosmos, making the app both entertaining and educational.
+
+> Whether you are a space enthusiast, student, educator, or casual explorer, Stargaze provides an unforgettable AR experience, blending scientific discovery with wonder and creativity. Embark on a celestial odyssey today and witness the universe like never before—where stars, planets, and galaxies are no longer distant dots in the sky but tangible, interactive wonders right at your fingertips.
+
+> With Stargaze, the cosmos is not just something you observe—it’s something you create, explore, and truly experience.
+
+---
 
 ## KEY FEATURES
 
 <details open>
-  <summary><strong>Spawn and Interact with Immersive World</strong></summary>
+  <summary>
+    <img src="https://img.shields.io/badge/01-Spawn%20and%20Interact-00C2FF?style=for-the-badge" alt="Spawn and Interact">
+  </summary>
 
-  - Immerse yourself in a captivating universe where the boundaries between reality and the virtual cosmos blur. With Stargaze, not only can you effortlessly spawn celestial bodies like planets, stars, and moons into your surroundings, but you can also interact with them in real-time. Witness planets orbiting, stars twinkling, and moons changing phases as you navigate through this mesmerizing augmented reality experience.
+- Spawn planets, stars, moons, and entire solar systems into your surroundings. Interact with them as planets orbit, stars twinkle, and moons change phases in real-time.
 </details>
 
 <details open>
-  <summary><strong>Optimized and Fastest Experiance through Asset Bundles</strong></summary>
+  <summary>
+    <img src="https://img.shields.io/badge/02-Optimized%20Experience-00C2FF?style=for-the-badge" alt="Optimized Experience">
+  </summary>
 
-  - Stargaze is engineered for optimal performance, ensuring a seamless and lightning-fast experience. Leveraging the power of asset bundles, the application efficiently manages and loads assets, guaranteeing a smooth and responsive experience. Dive into the cosmic wonders without delays, enjoying a high-performance AR application that prioritizes speed and efficiency.
+- Asset bundles ensure smooth performance and lightning-fast loading. Enjoy high-quality AR interactions without delays or lag.
 </details>
 
 <details open>
-  <summary><strong>AR Core Supported Mobile Devices Support</strong></summary>
+  <summary>
+    <img src="https://img.shields.io/badge/03-ARCore%20Support-00C2FF?style=for-the-badge" alt="ARCore Support">
+  </summary>
 
-  - Stargaze is tailored for Android AR Core-supported mobile devices, ensuring widespread compatibility. Whether you're using the latest smartphone or a trusted device with AR Core capabilities, you can embark on your celestial journey with confidence, experiencing the full spectrum of augmented reality features on a broad range of supported devices.
+- Fully compatible with Android ARCore-supported devices, allowing a wide range of users to experience the cosmic AR environment.
 </details>
 
 <details open>
-  <summary><strong>Localization and Multi Language Support</strong></summary>
+  <summary>
+    <img src="https://img.shields.io/badge/04-Multi%20Language%20Support-00C2FF?style=for-the-badge" alt="Multi-Language Support">
+  </summary>
 
-  - Stargaze is a truly global experience with built-in localization and multi-language support. Explore the cosmos in your preferred language, as the application seamlessly adapts to provide a personalized experience for users worldwide. Language barriers are transcended, allowing enthusiasts from diverse backgrounds to engage with the wonders of the universe effortlessly.
+- Localization features let users explore the universe in their preferred language, making Stargaze accessible globally.
 </details>
 
 <details open>
-  <summary><strong>Easy Content Update</strong></summary>
+  <summary>
+    <img src="https://img.shields.io/badge/05-Easy%20Content%20Updates-00C2FF?style=for-the-badge" alt="Easy Content Updates">
+  </summary>
 
-  - Stay connected with the ever-evolving universe of Stargaze through hassle-free content updates. The application's intuitive design enables easy integration of new content, ensuring that users can consistently enjoy fresh experiences. From introducing new celestial bodies to enhancing interactive features, Stargaze evolves with the latest advancements, keeping the cosmic adventure dynamic and exciting.
+- Add new celestial bodies and interactive content effortlessly. Stay up-to-date with the evolving universe.
 </details>
 
 <details open>
-  <summary><strong>Optimized and Detailed Assets </strong></summary>
+  <summary>
+    <img src="https://img.shields.io/badge/06-Optimized%20and%20Detailed%20Assets-00C2FF?style=for-the-badge" alt="Optimized Assets">
+  </summary>
 
-  - Every celestial element within Stargaze is meticulously crafted, offering a balance of optimized performance and stunning detail. The application boasts highly detailed assets that bring the universe to life, from the intricate textures of planets to the realistic movements of orbiting bodies. Stargaze achieves a perfect synergy between visual fidelity and operational efficiency, providing an immersive experience without compromising on quality.
+- Highly detailed assets bring realism to planets, stars, and orbiting objects while maintaining smooth performance.
 </details>
+
+---
 
 ## Screenshots
+
 <details open>
-  <summary><strong>Landing Page </strong></summary>
-  
-  <img src="stargaze-ar-astronomical-learning-application_1.jpg" alt="Image1" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
-  
+  <summary>
+    <img src="https://img.shields.io/badge/01-Landing%20Page-ffce2b?style=for-the-badge" alt="Landing Page">
+  </summary>
+
+  <img src="stargaze-ar-astronomical-learning-application_1.jpg" alt="Landing Page" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
+  <img src="stargaze-ar-astronomical-learning-application_2.jpg" alt="AR World" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
 </details>
 
 <details open>
-  <summary><strong>AR World</strong></summary>
-
-  <img src="stargaze-ar-astronomical-learning-application_2.jpg" alt="Image2" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
-  
+  <summary>
+    <img src="https://img.shields.io/badge/02-AR%20World-ffce2b?style=for-the-badge" alt="AR World">
+  </summary>
+  <img src="stargaze-ar-astronomical-learning-application_3.jpg" alt="AR World" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
+  <img src="stargaze-ar-astronomical-learning-application_4.jpg" alt="AR World" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
 </details>
 
-<details open>
-  <summary><strong>AR World</strong></summary>
-
-  <img src="stargaze-ar-astronomical-learning-application_3.jpg" alt="Image3" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
-  
-</details>
-
-<details open>
-  <summary><strong>AR World</strong></summary>
-
-  <img src="stargaze-ar-astronomical-learning-application_4.jpg" alt="Image4" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
-  
-</details>
+---
 
 ## Project Summary
 
-| Tittle         | Description             |
-|------------------|-------------------------------------|
-| **Devices**     | android ARCore supported devices                  |
-| **Languages**      | C#                    |
-| **API**     | Google Sheet API, Asset Bundle API                             |
-| **Version Control** | GitHub                        |
-| **Deployment**   | Unity                       |
+| **Category**       | **Details**                              |
+|--------------------|------------------------------------------|
+| **Devices**        | Android ARCore-supported devices         |
+| **Languages**      | C#                                       |
+| **API**            | Google Sheet API, Asset Bundle API       |
+| **Version Control** | GitHub                                  |
+| **Deployment**     | Unity                                     |
 
+---
 
 ## Installation
 
-Provide step-by-step instructions on how to install your project.
-
 ```bash
-# Example installation commands
+# Clone the repository
 git clone https://github.com/yourusername/yourrepository.git
 cd yourrepository
+
+# Install dependencies (if any)
 npm install
