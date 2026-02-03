@@ -4,11 +4,10 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/doubledhqbase/open-world-role-play-game-development-toolkit)
 ![GitHub](https://img.shields.io/github/license/doubledhqbase/open-world-role-play-game-development-toolkit)
 
-<div align="center">
+<p align="center">
+<img src="https://img.shields.io/badge/✦%20FEATURES%20✦-000000?style=for-the-badge&logoColor=white">
+</p>
 
-### ✦ FEATURES ✦
-
-</div>
 
 
 
