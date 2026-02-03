@@ -12,7 +12,7 @@
 
 </p>
 
-![NOTE](https://img.shields.io/badge/NOTE-Important-FF6F61?style=for-the-badge)
+![NOTE](https://img.shields.io/badge/PROJECT-SUMMARY-FF6F61?style=for-the-badge)
 
 > The Open World RPG Development Toolkit is a blueprint framework designed for game developers who want to create open-world role-playing games using the powerful Unreal Engine. With this toolkit, developers can build immersive and expansive worlds, featuring customizable character controllers, dialogue systems, weapon systems, and much more.
 
