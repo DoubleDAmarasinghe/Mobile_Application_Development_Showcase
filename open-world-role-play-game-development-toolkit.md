@@ -2,7 +2,7 @@
 
 <p align="center">
 
-![Project](https://img.shields.io/badge/PROJECT-VOLT%20SYSTEM-111111?style=for-the-badge)
+![Project](https://img.shields.io/badge/PROJECT-OPEN WORLD RPG GAME DEVELOPMENT TOOLKIT-111111?style=for-the-badge)
 ![Build](https://img.shields.io/badge/BUILD-PASSING-brightgreen?style=for-the-badge)
 ![Version](https://img.shields.io/badge/VERSION-v1.0.0-00C2FF?style=for-the-badge)
 ![Language](https://img.shields.io/badge/LANGUAGE-C%23-purple?style=for-the-badge)
