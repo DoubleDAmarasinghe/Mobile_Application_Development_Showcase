@@ -8,6 +8,8 @@
 ![Xamarin](https://img.shields.io/badge/Framework-Xamarin-blue)
 ![C#](https://img.shields.io/badge/Language-C%23-purple)
 ![C++](https://img.shields.io/badge/Language-C%2B%2B-blue)
+![Platform](https://img.shields.io/badge/Platform-Android-green)
+
 
 
 
