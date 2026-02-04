@@ -166,14 +166,3 @@
 | **Version Control** | GitHub                                 |
 | **Deployment**     | Unity                                   |
 
----
-
-## Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/yourrepository.git
-cd yourrepository
-
-# Install dependencies if any
-npm install
