@@ -13,6 +13,10 @@
 
 > Whether you’re seeking a fun and engaging pastime, a brain-boosting challenge, or a new way to showcase your cubing skills, Block AR delivers a rich, immersive experience that transforms each puzzle into an exciting adventure. Download Block AR today and discover a world where cubes come to life, challenges unfold, and the joy of solving is reimagined for the AR era.
 
+> ⚠️ **Note**: Due to confidentiality agreements, source code cannot be
+> shared. This focuses on key features,
+> and user interface design.
+
 ---
 
 ## KEY FEATURES
