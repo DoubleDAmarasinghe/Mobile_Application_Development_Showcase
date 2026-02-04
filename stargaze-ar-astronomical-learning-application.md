@@ -1,6 +1,7 @@
 # STARGAZE AR ASTRONOMICAL LEARNING APPLICATION
 
-![NOTE](https://img.shields.io/badge/PROJECT-SUMMARY-FF6F61?style=for-the-badge)
+![NOTE](https://img.shields.io/badge/PROJECT-Introduction-00C2FF?style=for-the-badge) <br>
+<img alt="Role Badge" src="https://img.shields.io/badge/ROLE-Software%20Engineer%20%20(Augmented%20Reality%20Mobile)-f22481">
 
 > Stargaze is a mesmerizing augmented reality (AR) application meticulously designed for Android AR-supported devices, bringing the wonders of the cosmos right into your hands. Developed with Unity AR Core and C#, Stargaze transforms ordinary surroundings into a celestial playground, where the line between reality and imagination fades, and the universe becomes your canvas.
 
@@ -15,6 +16,10 @@
 > Whether you are a space enthusiast, student, educator, or casual explorer, Stargaze provides an unforgettable AR experience, blending scientific discovery with wonder and creativity. Embark on a celestial odyssey today and witness the universe like never before—where stars, planets, and galaxies are no longer distant dots in the sky but tangible, interactive wonders right at your fingertips.
 
 > With Stargaze, the cosmos is not just something you observe—it’s something you create, explore, and truly experience.
+
+> ⚠️ **Note**: Due to confidentiality agreements, source code cannot be
+> shared. This focuses on key features,
+> and user interface design.
 
 ---
 
