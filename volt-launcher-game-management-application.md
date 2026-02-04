@@ -1,7 +1,7 @@
 # VOLT LAUNCHER MOBILE
 
-![NOTE](https://img.shields.io/badge/PROJECT-Introduction-00C2FF?style=for-the-badge) <br>
-<img alt="Role Badge" src="https://img.shields.io/badge/ROLE-Software%20Engineer%20%20(Mobile%20Application)-f22481">
+<img alt="Role Badge" src="https://img.shields.io/badge/ROLE-Software%20Engineer-f22481"><br>
+![NOTE](https://img.shields.io/badge/PROJECT-Introduction-00C2FF?style=for-the-badge)
 
 > VOLT Launcher is an immersive and dynamic mobile application designed to redefine the gaming experience by merging strategy, exploration, and interactive storytelling into a single, vibrant platform. Within this groundbreaking universe, players can engage in a wide array of games, each populated with unique characters, diverse challenges, and richly crafted virtual worlds. From cunning hackers to skilled medics, resourceful builders, and steadfast defenders, every character contributes to a living, breathing gaming ecosystem.
 
@@ -112,14 +112,3 @@
 | **Version Control** | GitHub                                   |
 | **Deployment**     | Xamarin, Visual Studio                    |
 
----
-
-## Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/yourrepository.git
-cd yourrepository
-
-# Install dependencies (if any)
-npm install
