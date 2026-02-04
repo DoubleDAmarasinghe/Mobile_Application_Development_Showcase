@@ -1,6 +1,7 @@
 # VOLT LAUNCHER MOBILE
 
-![NOTE](https://img.shields.io/badge/PROJECT-SUMMARY-FF6F61?style=for-the-badge)
+![NOTE](https://img.shields.io/badge/PROJECT-Introduction-00C2FF?style=for-the-badge) <br>
+<img alt="Role Badge" src="https://img.shields.io/badge/ROLE-Software%20Engineer%20%20(Mobile%20Application)-f22481">
 
 > VOLT Launcher is an immersive and dynamic mobile application designed to redefine the gaming experience by merging strategy, exploration, and interactive storytelling into a single, vibrant platform. Within this groundbreaking universe, players can engage in a wide array of games, each populated with unique characters, diverse challenges, and richly crafted virtual worlds. From cunning hackers to skilled medics, resourceful builders, and steadfast defenders, every character contributes to a living, breathing gaming ecosystem.
 
@@ -10,7 +11,9 @@
 
 > Whether you’re drawn to strategy, exploration, or cooperative gameplay, VOLT Launcher delivers an unparalleled gaming experience that pushes the boundaries of the virtual world. Discover, compete, and immerse yourself in a universe where your actions matter, your choices shape the outcome, and the thrill of adventure is always around the corner.
 
-
+> ⚠️ **Note**: Due to confidentiality agreements, source code cannot be
+> shared. This focuses on key features,
+> and user interface design.
 ---
 
 ## KEY FEATURES
