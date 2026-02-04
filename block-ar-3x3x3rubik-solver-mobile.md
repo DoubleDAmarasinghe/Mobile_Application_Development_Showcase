@@ -1,6 +1,7 @@
 # BLOCK AR 3X3X3 RUBIK SOLVER APPLICATION
 
-![NOTE](https://img.shields.io/badge/PROJECT-SUMMARY-FF6F61?style=for-the-badge)
+![NOTE](https://img.shields.io/badge/PROJECT-Introduction-00C2FF?style=for-the-badge) <br>
+<img alt="Role Badge" src="https://img.shields.io/badge/ROLE-Software%20Engineer%20%20(Augmented%20Reality%20Mobile)-f22481">
 
 > Introducing Block AR – the revolutionary augmented reality (AR) game that brings the timeless Rubik's Cube into a vibrant, interactive 3D world. Step into a captivating universe where puzzles are no longer confined to your hands but unfold in augmented reality, allowing you to spawn virtual Rubik's Cubes, manipulate them in real space, and watch them solve themselves in real-time. Whether you’re a curious beginner or a seasoned cuber, Block AR transforms the way you experience one of the world’s most iconic puzzles.
 
