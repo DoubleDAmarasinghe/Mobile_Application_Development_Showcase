@@ -1,6 +1,6 @@
 # AR PRODUCT SIMULATOR APPLICATION
 
-![NOTE](https://img.shields.io/badge/PROJECT-SUMMARY-00C2FF?style=for-the-badge) <br>
+![NOTE](https://img.shields.io/badge/PROJECT-Introduction-00C2FF?style=for-the-badge) <br>
 <img alt="Role Badge" src="https://img.shields.io/badge/ROLE-Software%20Engineer%20%20(Augmented%20Reality%20Mobile)-f22481">
 
 > The AR Product Simulator Application revolutionizes the way users interact with and understand products by combining immersive 3D simulation with intuitive user experiences. Designed for both professionals and enthusiasts, this application allows users to visualize products in both AR (Augmented Reality) and non-AR modes, providing unmatched flexibility in how products are explored.
