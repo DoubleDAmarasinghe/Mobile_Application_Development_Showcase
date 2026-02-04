@@ -80,7 +80,7 @@
 ## Screenshots
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/01-Snap%20Shot-ffce2b?style=for-the-badge" alt="Intractable Drone System">
+    <img src="https://img.shields.io/badge/01-Snap%20Shot-00C2FF?style=for-the-badge" alt="Intractable Drone System">
   </summary>
   
   <img src="open-world-role-play-game-development-toolkit_19.jpeg" alt="Image1" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -89,7 +89,7 @@
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/02-Snap%20Shot-ffce2b?style=for-the-badge" alt="Intractable Drone System">
+    <img src="https://img.shields.io/badge/02-Snap%20Shot-00C2FF?style=for-the-badge" alt="Intractable Drone System">
   </summary>
   
   <img src="open-world-role-play-game-development-toolkit_20.jpeg" alt="Image1" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -97,7 +97,7 @@
 </details>
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/03-Snap%20Shot-ffce2b?style=for-the-badge" alt="Intractable Drone System">
+    <img src="https://img.shields.io/badge/03-Snap%20Shot-00C2FF?style=for-the-badge" alt="Intractable Drone System">
   </summary>
   
   <img src="open-world-role-play-game-development-toolkit_21.jpeg" alt="Image1" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -105,7 +105,7 @@
 </details>
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/04-Snap%20Shot-ffce2b?style=for-the-badge" alt="Intractable Drone System">
+    <img src="https://img.shields.io/badge/04-Snap%20Shot-00C2FF?style=for-the-badge" alt="Intractable Drone System">
   </summary>
   
   <img src="open-world-role-play-game-development-toolkit_22.jpeg" alt="Image1" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -113,7 +113,7 @@
 </details>
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/05-Snap%20Shot-ffce2b?style=for-the-badge" alt="Intractable Drone System">
+    <img src="https://img.shields.io/badge/05-Snap%20Shot-00C2FF?style=for-the-badge" alt="Intractable Drone System">
   </summary>
   
   <img src="open-world-role-play-game-development-toolkit_1.jpg" alt="Image1" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -122,7 +122,7 @@
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/06-Snap%20Shot-ffce2b?style=for-the-badge" alt="Intractable Drone System">
+    <img src="https://img.shields.io/badge/06-Snap%20Shot-00C2FF?style=for-the-badge" alt="Intractable Drone System">
   </summary>
 
   <img src="open-world-role-play-game-development-toolkit_2.jpg" alt="Image2" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -131,7 +131,7 @@
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/07-Snap%20Shot-ffce2b?style=for-the-badge" alt="Intractable Drone System">
+    <img src="https://img.shields.io/badge/07-Snap%20Shot-00C2FF?style=for-the-badge" alt="Intractable Drone System">
   </summary>
 
   <img src="open-world-role-play-game-development-toolkit_3.jpg" alt="Image3" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -140,7 +140,7 @@
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/08-Snap%20Shot-ffce2b?style=for-the-badge" alt="Intractable Drone System">
+    <img src="https://img.shields.io/badge/08-Snap%20Shot-00C2FF?style=for-the-badge" alt="Intractable Drone System">
   </summary>
 
   <img src="open-world-role-play-game-development-toolkit_4.jpg" alt="Image4" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -149,7 +149,7 @@
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/09-Snap%20Shot-ffce2b?style=for-the-badge" alt="Intractable Drone System">
+    <img src="https://img.shields.io/badge/09-Snap%20Shot-00C2FF?style=for-the-badge" alt="Intractable Drone System">
   </summary>
 
   <img src="open-world-role-play-game-development-toolkit_5.jpg" alt="Image5" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -158,7 +158,7 @@
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/10-Snap%20Shot-ffce2b?style=for-the-badge" alt="Intractable Drone System">
+    <img src="https://img.shields.io/badge/10-Snap%20Shot-00C2FF?style=for-the-badge" alt="Intractable Drone System">
   </summary>
 
   <img src="open-world-role-play-game-development-toolkit_6.jpg" alt="Image6" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -167,7 +167,7 @@
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/11-Snap%20Shot-ffce2b?style=for-the-badge" alt="Intractable Drone System">
+    <img src="https://img.shields.io/badge/11-Snap%20Shot-00C2FF?style=for-the-badge" alt="Intractable Drone System">
   </summary>
 
   <img src="open-world-role-play-game-development-toolkit_7.jpg" alt="Image7" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -176,7 +176,7 @@
 
 <details open>
     <summary>
-    <img src="https://img.shields.io/badge/12-Snap%20Shot-ffce2b?style=for-the-badge" alt="Intractable Drone System">
+    <img src="https://img.shields.io/badge/12-Snap%20Shot-00C2FF?style=for-the-badge" alt="Intractable Drone System">
   </summary>
 
   <img src="open-world-role-play-game-development-toolkit_8.jpg" alt="Image8" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -185,7 +185,7 @@
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/13-Snap%20Shot-ffce2b?style=for-the-badge" alt="Intractable Drone System">
+    <img src="https://img.shields.io/badge/13-Snap%20Shot-00C2FF?style=for-the-badge" alt="Intractable Drone System">
   </summary>
 
   <img src="open-world-role-play-game-development-toolkit_9.jpg" alt="Image9" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -194,7 +194,7 @@
 
 <details open>
     <summary>
-    <img src="https://img.shields.io/badge/14-Snap%20Shot-ffce2b?style=for-the-badge" alt="Intractable Drone System">
+    <img src="https://img.shields.io/badge/14-Snap%20Shot-00C2FF?style=for-the-badge" alt="Intractable Drone System">
   </summary>
 
   <img src="open-world-role-play-game-development-toolkit_10.jpg" alt="Image10" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -203,7 +203,7 @@
 
 <details open>
     <summary>
-    <img src="https://img.shields.io/badge/15-Snap%20Shot-ffce2b?style=for-the-badge" alt="Intractable Drone System">
+    <img src="https://img.shields.io/badge/15-Snap%20Shot-00C2FF?style=for-the-badge" alt="Intractable Drone System">
   </summary>
 
   <img src="open-world-role-play-game-development-toolkit_11.jpg" alt="Image11" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -212,7 +212,7 @@
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/16-Snap%20Shot-ffce2b?style=for-the-badge" alt="Intractable Drone System">
+    <img src="https://img.shields.io/badge/16-Snap%20Shot-00C2FF?style=for-the-badge" alt="Intractable Drone System">
   </summary>
 
   <img src="open-world-role-play-game-development-toolkit_12.jpg" alt="Image12" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -221,7 +221,7 @@
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/17-Snap%20Shot-ffce2b?style=for-the-badge" alt="Intractable Drone System">
+    <img src="https://img.shields.io/badge/17-Snap%20Shot-00C2FF?style=for-the-badge" alt="Intractable Drone System">
   </summary>
 
   <img src="open-world-role-play-game-development-toolkit_13.jpg" alt="Image13" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -230,7 +230,7 @@
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/18-Snap%20Shot-ffce2b?style=for-the-badge" alt="Intractable Drone System">
+    <img src="https://img.shields.io/badge/18-Snap%20Shot-00C2FF?style=for-the-badge" alt="Intractable Drone System">
   </summary>
 
   <img src="open-world-role-play-game-development-toolkit_14.jpg" alt="Image14" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -239,7 +239,7 @@
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/19-Snap%20Shot-ffce2b?style=for-the-badge" alt="Intractable Drone System">
+    <img src="https://img.shields.io/badge/19-Snap%20Shot-00C2FF?style=for-the-badge" alt="Intractable Drone System">
   </summary>
 
   <img src="open-world-role-play-game-development-toolkit_15.jpg" alt="Image15" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -248,7 +248,7 @@
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/20-Snap%20Shot-ffce2b?style=for-the-badge" alt="Intractable Drone System">
+    <img src="https://img.shields.io/badge/20-Snap%20Shot-00C2FF?style=for-the-badge" alt="Intractable Drone System">
   </summary>
 
   <img src="open-world-role-play-game-development-toolkit_16.jpg" alt="Image16" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -257,7 +257,7 @@
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/21-Snap%20Shot-ffce2b?style=for-the-badge" alt="Intractable Drone System">
+    <img src="https://img.shields.io/badge/21-Snap%20Shot-00C2FF?style=for-the-badge" alt="Intractable Drone System">
   </summary>
 
   <img src="open-world-role-play-game-development-toolkit_17.jpg" alt="Image17" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -266,14 +266,15 @@
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/22-Snap%20Shot-ffce2b?style=for-the-badge" alt="Intractable Drone System">
+    <img src="https://img.shields.io/badge/22-Snap%20Shot-00C2FF?style=for-the-badge" alt="Intractable Drone System">
   </summary>
 
   <img src="open-world-role-play-game-development-toolkit_18.jpg" alt="Image18" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
   
 </details>
----
 
+
+---
 ## Project Summary
 
 | **Category**       | **Details**                           |
