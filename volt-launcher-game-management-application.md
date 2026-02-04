@@ -72,28 +72,28 @@
 
 <details open>
     <summary>
-    <img src="https://img.shields.io/badge/01-Landing%20Page-ffce2b?style=for-the-badge" alt="Landing Page">
+    <img src="https://img.shields.io/badge/01-Landing%20Page-00C2FF?style=for-the-badge" alt="Landing Page">
   </summary>
   <img src="volt-launcher-game-management-application_1.png" alt="Landing Page" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
 </details>
 
 <details open>
     <summary>
-    <img src="https://img.shields.io/badge/02-VOLT%20Library-ffce2b?style=for-the-badge" alt="Landing Page">
+    <img src="https://img.shields.io/badge/02-VOLT%20Library-00C2FF?style=for-the-badge" alt="Landing Page">
   </summary>
   <img src="volt-launcher-game-management-application_2.png" alt="VOLT Library" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
 </details>
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/03-Buy-ffce2b?style=for-the-badge" alt="Landing Page">
+    <img src="https://img.shields.io/badge/03-Buy-00C2FF?style=for-the-badge" alt="Landing Page">
   </summary>
   <img src="volt-launcher-game-management-application_3.png" alt="Buy" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
 </details>
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/04-Agent%20Showcase-ffce2b?style=for-the-badge" alt="Landing Page">
+    <img src="https://img.shields.io/badge/04-Agent%20Showcase-00C2FF?style=for-the-badge" alt="Landing Page">
   </summary>
   <img src="volt-launcher-game-management-application_4.png" alt="Agent Showcase" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
   <img src="volt-launcher-game-management-application_5.png" alt="Agent Showcase" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
