@@ -1,6 +1,7 @@
 # AR PRODUCT SIMULATOR APPLICATION
 
-![NOTE](https://img.shields.io/badge/PROJECT-SUMMARY-FF6F61?style=for-the-badge)
+![NOTE](https://img.shields.io/badge/PROJECT-SUMMARY-00C2FF?style=for-the-badge) <br>
+<img alt="Role Badge" src="https://img.shields.io/badge/ROLE-Software%20Engineer%20%20(Augmented%20Reality%20Mobile)-f22481">
 
 > The AR Product Simulator Application revolutionizes the way users interact with and understand products by combining immersive 3D simulation with intuitive user experiences. Designed for both professionals and enthusiasts, this application allows users to visualize products in both AR (Augmented Reality) and non-AR modes, providing unmatched flexibility in how products are explored.
 
@@ -11,6 +12,10 @@
 >ProductSim’s interface is designed to be educational, intuitive, and highly engaging. It bridges the gap between theoretical knowledge and practical experience, making it suitable for training professionals, educating students, or providing immersive product previews for clients and consumers. The platform supports detailed annotations, interactive guides, and dynamic simulations, ensuring users can learn at their own pace while remaining fully engaged.
 
 >By combining cutting-edge AR technology, intelligent AI guidance, and interactive 3D visualization, the AR Product Simulator Application transforms product exploration into a rich, immersive, and unforgettable experience. Users no longer just view products—they interact, understand, and master them in ways previously only possible with physical hands-on access.
+
+> ⚠️ **Note**: Due to confidentiality agreements, source code cannot be
+> shared. This focuses on key features,
+> and user interface design.
 
 ---
 
