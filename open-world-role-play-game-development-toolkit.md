@@ -1,7 +1,8 @@
 # OPEN WORLD RPG GAME DEVELOPMENT TOOLKIT
 
-![NOTE](https://img.shields.io/badge/PROJECT-Introduction-00C2FF?style=for-the-badge) <br>
-<img alt="Role Badge" src="https://img.shields.io/badge/ROLE-Software%20Engineer%20%20(Game%20Development%20UE)-f22481">
+<img alt="Role Badge" src="https://img.shields.io/badge/ROLE-Game%20Developer-f22481"> <br>
+![NOTE](https://img.shields.io/badge/PROJECT-Introduction-00C2FF?style=for-the-badge)
+
 
 > The Open World RPG Development Toolkit is a blueprint framework designed for game developers who want to create open-world role-playing games using the powerful Unreal Engine. With this toolkit, developers can build immersive and expansive worlds, featuring customizable character controllers, dialogue systems, weapon systems, and much more.
 
@@ -285,12 +286,3 @@
 
 
 
-## Installation
-
-Provide step-by-step instructions on how to install your project.
-
-```bash
-# Example installation commands
-git clone https://github.com/yourusername/yourrepository.git
-cd yourrepository
-npm install
