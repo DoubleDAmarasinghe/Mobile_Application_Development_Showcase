@@ -76,7 +76,7 @@
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/01-Landing%20Page-ffce2b?style=for-the-badge" alt="Landing Page">
+    <img src="https://img.shields.io/badge/01-Landing%20Page-00C2FF?style=for-the-badge" alt="Landing Page">
   </summary>
 
   <img src="block-ar-3x3x3rubik-solver-mobile_1.jpg" alt="Landing Page" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -84,7 +84,7 @@
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/02-Choose%20Game%20Type-ffce2b?style=for-the-badge" alt="Choose Game Type">
+    <img src="https://img.shields.io/badge/02-Choose%20Game%20Type-00C2FF?style=for-the-badge" alt="Choose Game Type">
   </summary>
 
   <img src="block-ar-3x3x3rubik-solver-mobile_2.jpg" alt="Choose Game Type" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -92,7 +92,7 @@
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/03-Scanning%20Surface-ffce2b?style=for-the-badge" alt="Scanning Surface">
+    <img src="https://img.shields.io/badge/03-Scanning%20Surface-00C2FF?style=for-the-badge" alt="Scanning Surface">
   </summary>
 
   <img src="block-ar-3x3x3rubik-solver-mobile_3.jpg" alt="Scanning Surface" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -100,7 +100,7 @@
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/04-Mesh%20Spawn-ffce2b?style=for-the-badge" alt="Mesh Spawn">
+    <img src="https://img.shields.io/badge/04-Mesh%20Spawn-00C2FF?style=for-the-badge" alt="Mesh Spawn">
   </summary>
 
   <img src="block-ar-3x3x3rubik-solver-mobile_4.jpg" alt="Mesh Spawn" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -108,7 +108,7 @@
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/05-Adjust%20Transform-ffce2b?style=for-the-badge" alt="Adjust Transform">
+    <img src="https://img.shields.io/badge/05-Adjust%20Transform-00C2FF?style=for-the-badge" alt="Adjust Transform">
   </summary>
 
   <img src="block-ar-3x3x3rubik-solver-mobile_5.jpg" alt="Adjust Transform" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -116,7 +116,7 @@
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/06-Voice%20and%20Text-ffce2b?style=for-the-badge" alt="Voice and Text Narrations">
+    <img src="https://img.shields.io/badge/06-Voice%20and%20Text-00C2FF?style=for-the-badge" alt="Voice and Text Narrations">
   </summary>
 
   <img src="block-ar-3x3x3rubik-solver-mobile_6.jpg" alt="Voice and Text Narrations" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -124,7 +124,7 @@
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/07-Layer%20Movements-ffce2b?style=for-the-badge" alt="Layer Movements">
+    <img src="https://img.shields.io/badge/07-Layer%20Movements-00C2FF?style=for-the-badge" alt="Layer Movements">
   </summary>
 
   <img src="block-ar-3x3x3rubik-solver-mobile_8.jpg" alt="Layer Movements" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -132,7 +132,7 @@
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/08-Win%20State-ffce2b?style=for-the-badge" alt="Win State">
+    <img src="https://img.shields.io/badge/08-Win%20State-00C2FF?style=for-the-badge" alt="Win State">
   </summary>
 
   <img src="block-ar-3x3x3rubik-solver-mobile_10.jpg" alt="Win State" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -140,7 +140,7 @@
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/09-InGame%20UI-ffce2b?style=for-the-badge" alt="InGame UI">
+    <img src="https://img.shields.io/badge/09-InGame%20UI-00C2FF?style=for-the-badge" alt="InGame UI">
   </summary>
 
   <img src="block-ar-3x3x3rubik-solver-mobile_11.jpg" alt="InGame UI" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -148,7 +148,7 @@
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/10-Smooth%20Rotation-ffce2b?style=for-the-badge" alt="Smooth Rotation">
+    <img src="https://img.shields.io/badge/10-Smooth%20Rotation-00C2FF?style=for-the-badge" alt="Smooth Rotation">
   </summary>
 
   <img src="block-ar-3x3x3rubik-solver-mobile_12.jpg" alt="Smooth Rotation" width="300" style="border: 2px solid #ddd; border-radius: 8px;">
