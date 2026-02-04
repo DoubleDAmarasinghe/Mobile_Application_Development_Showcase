@@ -1,6 +1,6 @@
 # BLOCK AR 3X3X3 RUBIK SOLVER APPLICATION
 
-<img alt="Role Badge" src="https://img.shields.io/badge/ROLE-Software%20Engineer%20%20(Augmented%20Reality%20Mobile)-f22481"> <br>
+<img alt="Role Badge" src="https://img.shields.io/badge/ROLE-Software%20Engineer-f22481"> <br>
 ![NOTE](https://img.shields.io/badge/PROJECT-Introduction-00C2FF?style=for-the-badge)
 
 
