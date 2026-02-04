@@ -1,7 +1,6 @@
 # AR PRODUCT SIMULATOR APPLICATION
-
-![NOTE](https://img.shields.io/badge/PROJECT-Introduction-00C2FF?style=for-the-badge) <br>
-<img alt="Role Badge" src="https://img.shields.io/badge/ROLE-Software%20Engineer%20%20(Augmented%20Reality%20Mobile)-f22481">
+<img alt="Role Badge" src="https://img.shields.io/badge/ROLE-Software%20Engineer-f22481"><br>
+![NOTE](https://img.shields.io/badge/PROJECT-Introduction-00C2FF?style=for-the-badge)
 
 > The AR Product Simulator Application revolutionizes the way users interact with and understand products by combining immersive 3D simulation with intuitive user experiences. Designed for both professionals and enthusiasts, this application allows users to visualize products in both AR (Augmented Reality) and non-AR modes, providing unmatched flexibility in how products are explored.
 
@@ -75,7 +74,7 @@
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/01-Landing%20Page-ffce2b?style=for-the-badge" alt="Landing Page">
+    <img src="https://img.shields.io/badge/01-Landing%20Page-00C2FF?style=for-the-badge" alt="Landing Page">
   </summary>
 
   <img src="ar-ai-based-simulator-showcase-application_1.jpg" alt="Landing Page" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -83,7 +82,7 @@
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/02-Non%20AR%20Simulator-ffce2b?style=for-the-badge" alt="Non AR Simulator">
+    <img src="https://img.shields.io/badge/02-Non%20AR%20Simulator-00C2FF?style=for-the-badge" alt="Non AR Simulator">
   </summary>
 
   <img src="ar-ai-based-simulator-showcase-application_2.jpg" alt="Non AR Simulator" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -91,7 +90,7 @@
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/03-Interact%20With%20Parts-ffce2b?style=for-the-badge" alt="Interact With Parts">
+    <img src="https://img.shields.io/badge/03-Interact%20With%20Parts-00C2FF?style=for-the-badge" alt="Interact With Parts">
   </summary>
 
   <img src="ar-ai-based-simulator-showcase-application_3.jpg" alt="Interact With Parts" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -99,7 +98,7 @@
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/04-Slide%20Show-ffce2b?style=for-the-badge" alt="Slide Show">
+    <img src="https://img.shields.io/badge/04-Slide%20Show-00C2FF?style=for-the-badge" alt="Slide Show">
   </summary>
 
   <img src="ar-ai-based-simulator-showcase-application_4.jpg" alt="Slide Show" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -107,7 +106,7 @@
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/05-AI%20Assistance-ffce2b?style=for-the-badge" alt="AI Assistance">
+    <img src="https://img.shields.io/badge/05-AI%20Assistance-00C2FF?style=for-the-badge" alt="AI Assistance">
   </summary>
 
   <img src="ar-ai-based-simulator-showcase-application_5.jpg" alt="AI Assistance" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -115,7 +114,7 @@
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/06-Connecting%20to%20AI%20API-ffce2b?style=for-the-badge" alt="Connecting to AI API">
+    <img src="https://img.shields.io/badge/06-Connecting%20to%20AI%20API-00C2FF?style=for-the-badge" alt="Connecting to AI API">
   </summary>
 
   <img src="ar-ai-based-simulator-showcase-application_6.jpg" alt="Connecting to AI API" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -123,7 +122,7 @@
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/07-AR%20World-ffce2b?style=for-the-badge" alt="AR World">
+    <img src="https://img.shields.io/badge/07-AR%20World-00C2FF?style=for-the-badge" alt="AR World">
   </summary>
 
   <img src="ar-ai-based-simulator-showcase-application_7.jpg" alt="AR World" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -131,7 +130,7 @@
 
 <details open>
   <summary>
-    <img src="https://img.shields.io/badge/08-AR%20World-ffce2b?style=for-the-badge" alt="AR World">
+    <img src="https://img.shields.io/badge/08-AR%20World-00C2FF?style=for-the-badge" alt="AR World">
   </summary>
 
   <img src="ar-ai-based-simulator-showcase-application_8.jpg" alt="AR World" width="800" style="border: 2px solid #ddd; border-radius: 8px;">
@@ -149,14 +148,4 @@
 | **Version Control** | GitHub                                 |
 | **Deployment**     | Unity                                   |
 
----
 
-## Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/yourrepository.git
-cd yourrepository
-
-# Install dependencies if any
-npm install
